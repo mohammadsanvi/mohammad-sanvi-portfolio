@@ -43,15 +43,12 @@ Feel free to connect with me!
 
 Clone the project:
 
-```bash git clone https://github.com/mohammadsanvi/mohammad-sanvi-portfolio.git ```
-```bash npm install ```
-```bash npm run dev ```
+```bash git clone https://github.com/mohammadsanvi/mohammad-sanvi-portfolio.git
+npm install
+npm run dev
 
 
----
-
-### ✅ **Git Commands (Commit + Push)**  
-```bash
+✅ Git Commands (Commit + Push)
 git init
 git add .
 git commit -m "Initial commit: Personal portfolio setup"
