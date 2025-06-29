@@ -43,9 +43,8 @@ Feel free to connect with me!
 
 Clone the project:
 
-```bash
-git clone https://github.com/mohammadsanvi/mohammad-sanvi-portfolio.git
 
+git clone https://github.com/mohammadsanvi/mohammad-sanvi-portfolio.git
 
 <pre> ```bash npm install ``` </pre>
 <pre> ```bash npm run dev ``` </pre>
