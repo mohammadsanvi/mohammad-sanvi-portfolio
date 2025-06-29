@@ -24,8 +24,8 @@ This project showcases my skills, projects, and contact details. Built with mode
 ## 📞 Contact Me
 Feel free to connect with me!  
 - **Email:** mohammadsanvi.dev@gmail.com  
-- **GitHub:** [github.com/your-github](https://github.com/mohammadsanvi)  
-- **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/mohammadsanvi0)  
+- **GitHub:** [github.com/mohammadsanvi](https://github.com/mohammadsanvi) 
+- **LinkedIn:** [linkedin.com/in/mohammadsanvi0](https://linkedin.com/in/mohammadsanvi0)  
 
 
 ### 🖼️ Home Page
@@ -43,11 +43,9 @@ Feel free to connect with me!
 
 Clone the project:
 
-
-git clone https://github.com/mohammadsanvi/mohammad-sanvi-portfolio.git
-
-<pre> ```bash npm install ``` </pre>
-<pre> ```bash npm run dev ``` </pre>
+```bash git clone https://github.com/mohammadsanvi/mohammad-sanvi-portfolio.git ```
+```bash npm install ```
+```bash npm run dev ```
 
 
 ---
